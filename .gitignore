@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
+.DS_Store
+
+# datasets e resultados grandes (se quiser versionar, remova estas linhas)
+dados_synthea/
+resultados/
+graficos/
+snapshots/
+

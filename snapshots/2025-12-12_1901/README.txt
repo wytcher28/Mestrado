@@ -1,23 +1,23 @@
-# Snapshot – FL com CKKS (Arquitetura A/B)
+# Mestrado — FL + CKKS (TenSEAL)
 
-Este snapshot contém o estado final do experimento de Mestrado.
+Este repositório contém código e snapshots de experimentos de **Federated Learning (FL)** com **Criptografia Homomórfica aproximada (CKKS)** usando **TenSEAL**, incluindo scripts de execução, resultados e gráficos.
 
-Conteúdo:
-- Ambiente_Teste_FL.ipynb  -> notebook principal
-- run_experimento_fl_ckks.py -> script de execução
-- resultados/ -> CSVs de resultados
-- graficos/ -> gráficos gerados
-- requirements.txt -> dependências do ambiente
+## Estrutura do repositório
 
-Base de dados:
-- MIMIC-III Clinical Database (v1.4)
-- Tarefa: predição de mortalidade hospitalar
+- `FULL_PROJECT.py`  
+  Arquivo único gerado por concatenação dos scripts `.py` do projeto (útil para leitura/cópia rápida).
 
-Modelagem:
-- Modelo: Regressão Logística
-- Cenários: FL sem HE e FL com CKKS (Arquitetura A/B)
+- `snapshots/2025-12-12_1901/`  
+  Snapshot completo do experimento (código, requisitos, notebook, resultados e gráficos).
+  - `run_experimento_fl_ckks.py`
+  - `requirements.txt`
+  - `Ambiente_Teste_FL.ipynb`
+  - `resultados/`
+  - `graficos/`
 
-Para reprodução:
-1) Montar Google Drive
-2) pip install -r requirements.txt
-3) Executar Ambiente_Teste_FL.ipynb
+## Como executar (snapshot)
+
+1. Crie um ambiente (Python 3.10+ recomendado) e instale dependências:
+
+```bash
+pip install -r snapshots/2025-12-12_1901/requirements.txt

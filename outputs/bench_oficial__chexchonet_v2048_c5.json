@@ -1,0 +1,17 @@
+{
+  "phase_name": "Oficial – CheXchoNet",
+  "dataset_root": "/content/drive/MyDrive/Base de Dados/Oficial",
+  "mode": "unlabeled",
+  "metadata_found": false,
+  "vector_size": 2048,
+  "num_clients": 5,
+  "iters": 3,
+  "t_context_ms": 37.22081799991429,
+  "t_keygen_ms": 240.73538300022483,
+  "t_encrypt_ms": 36.068849000148475,
+  "t_aggregate_ms": 2.1362283333825567,
+  "t_decrypt_ms": 1.5204710001125932,
+  "payload_cipher_bytes": 1671852,
+  "payload_total_bytes": 1671852,
+  "mean_abs_error": 4.878455855124981e-09
+}

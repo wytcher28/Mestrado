@@ -104,6 +104,24 @@ def load_bench_files(outputs_dir: Path, vector_size: int | None, clients: int | 
             "mean_abs_error": _safe_float(data.get("mean_abs_error")),
         }
 
+        # fallback: alguns JSON usam t_* ao invés de lat_*
+        if row["lat_context_ms"] is None:   row["lat_context_ms"]   = _safe_float(data.get("t_context_ms"))
+        if row["lat_keygen_ms"] is None:    row["lat_keygen_ms"]    = _safe_float(data.get("t_keygen_ms"))
+        if row["lat_encrypt_ms"] is None:   row["lat_encrypt_ms"]   = _safe_float(data.get("t_encrypt_ms"))
+        if row["lat_aggregate_ms"] is None: row["lat_aggregate_ms"] = _safe_float(data.get("t_aggregate_ms"))
+        if row["lat_decrypt_ms"] is None:   row["lat_decrypt_ms"]   = _safe_float(data.get("t_decrypt_ms"))
+
+        # fallback: payload em bytes
+        if row["payload_cipher_mb"] is None and data.get("payload_cipher_bytes") is not None:
+            row["payload_cipher_mb"] = _safe_float(data.get("payload_cipher_bytes")) / (1024*1024)
+        if row["payload_total_mb"] is None and data.get("payload_total_bytes") is not None:
+            row["payload_total_mb"] = _safe_float(data.get("payload_total_bytes")) / (1024*1024)
+
+        # fallback: nome de clientes
+        if row["clients"] is None:
+            if data.get("num_clients") is not None:
+                row["clients"] = int(data.get("num_clients"))
+
         # alguns logs podem usar nomes diferentes
         # tenta mapear se necessário
         if row["lat_encrypt_ms"] is None:

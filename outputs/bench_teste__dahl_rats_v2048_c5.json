@@ -1,0 +1,17 @@
+{
+  "phase_name": "Teste – Dahl Rats",
+  "dataset_root": "/content/drive/MyDrive/Base de Dados/Teste",
+  "mode": "unlabeled",
+  "metadata_found": false,
+  "vector_size": 2048,
+  "num_clients": 5,
+  "iters": 3,
+  "t_context_ms": 38.106013000011444,
+  "t_keygen_ms": 253.14325899956748,
+  "t_encrypt_ms": 37.28657699981704,
+  "t_aggregate_ms": 2.194014333188534,
+  "t_decrypt_ms": 1.4575043334625661,
+  "payload_cipher_bytes": 1671563,
+  "payload_total_bytes": 1671563,
+  "mean_abs_error": 4.896430236327934e-09
+}

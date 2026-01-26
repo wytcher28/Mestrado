@@ -1,0 +1,7 @@
+usage: run_experimento_fl_ckks.py [-h] --base-data BASE_DATA [--outdir OUTDIR]
+                                  [--only-phase ONLY_PHASE]
+                                  [--vector-size VECTOR_SIZE]
+                                  [--clients CLIENTS] [--iters ITERS]
+                                  [--poly-degree POLY_DEGREE]
+                                  [--coeff-bits COEFF_BITS] [--scale SCALE]
+run_experimento_fl_ckks.py: error: the following arguments are required: --base-data

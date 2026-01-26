@@ -1,0 +1,17 @@
+{
+  "phase_name": "Treinamento – MIMIC-III",
+  "dataset_root": "/content/drive/MyDrive/Base de Dados/Treino/extracted/mimic-iii-clinical-database-1.4",
+  "mode": "unlabeled",
+  "metadata_found": false,
+  "vector_size": 4096,
+  "num_clients": 5,
+  "iters": 10,
+  "t_context_ms": 84.75229400023818,
+  "t_keygen_ms": 429.3865879997611,
+  "t_encrypt_ms": 62.619519899971785,
+  "t_aggregate_ms": 3.3221313999034465,
+  "t_decrypt_ms": 2.3792520998977125,
+  "payload_cipher_bytes": 1671231,
+  "payload_total_bytes": 1671231,
+  "mean_abs_error": 24.18461774995148
+}

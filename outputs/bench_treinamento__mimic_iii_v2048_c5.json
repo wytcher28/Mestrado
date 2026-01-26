@@ -1,0 +1,17 @@
+{
+  "phase_name": "Treinamento – MIMIC-III",
+  "dataset_root": "/content/drive/MyDrive/Base de Dados/Treino",
+  "mode": "unlabeled",
+  "metadata_found": false,
+  "vector_size": 2048,
+  "num_clients": 5,
+  "iters": 3,
+  "t_context_ms": 42.20226699998602,
+  "t_keygen_ms": 278.5539170000702,
+  "t_encrypt_ms": 40.33625533323114,
+  "t_aggregate_ms": 2.726640666524569,
+  "t_decrypt_ms": 1.7406586666281025,
+  "payload_cipher_bytes": 1671468,
+  "payload_total_bytes": 1671468,
+  "mean_abs_error": 4.8637284467326374e-09
+}

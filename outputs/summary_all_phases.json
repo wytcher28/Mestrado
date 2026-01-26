@@ -7,13 +7,24 @@
     "vector_size": 4096,
     "num_clients": 5,
     "iters": 10,
-    "t_context_ms": 58.93968000076711,
-    "t_keygen_ms": 416.20013500005007,
-    "t_encrypt_ms": 55.72723940014839,
-    "t_aggregate_ms": 3.087997700367123,
-    "t_decrypt_ms": 2.177826199866831,
-    "payload_cipher_bytes": 1671609,
-    "payload_total_bytes": 1671609,
-    "mean_abs_error": 24.23809365486931
+    "poly_degree": 8192,
+    "coeff_bits": [
+      60,
+      40,
+      40,
+      60
+    ],
+    "scale_bits": 30,
+    "t_context_ms": 325.3778340003919,
+    "t_keygen_ms": 11.685956000292208,
+    "t_encrypt_ms": 36.446466999768745,
+    "t_aggregate_ms": 1.8173226002545562,
+    "t_decrypt_ms": 1.6124552996188868,
+    "payload_cipher_bytes": 2162380,
+    "payload_total_bytes": 2162380,
+    "payload_cipher_mb": 2.062206268310547,
+    "payload_total_mb": 2.062206268310547,
+    "mean_abs_error": 0.35459125322334545,
+    "t_total_ms": 376.9400349003263
   }
 ]

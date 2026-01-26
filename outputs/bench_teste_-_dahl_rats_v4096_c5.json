@@ -1,0 +1,28 @@
+{
+  "phase_name": "Teste – Dahl Rats",
+  "dataset_root": "/content/drive/MyDrive/Base de Dados/Teste/extracted/blood-pressure-in-salt-sensitive-dahl-rats-1.0.0",
+  "mode": "unlabeled",
+  "metadata_found": false,
+  "vector_size": 4096,
+  "num_clients": 5,
+  "iters": 10,
+  "poly_degree": 8192,
+  "coeff_bits": [
+    60,
+    40,
+    40,
+    60
+  ],
+  "scale_bits": 40,
+  "t_context_ms": 269.2562230004114,
+  "t_keygen_ms": 10.2581850005663,
+  "t_encrypt_ms": 34.71264930012694,
+  "t_aggregate_ms": 1.722145099847694,
+  "t_decrypt_ms": 1.5508122003666358,
+  "payload_cipher_bytes": 2162328,
+  "payload_total_bytes": 2162328,
+  "payload_cipher_mb": 2.0621566772460938,
+  "payload_total_mb": 2.0621566772460938,
+  "mean_abs_error": 0.3324495960077016,
+  "t_total_ms": 317.500014601319
+}

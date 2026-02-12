@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-02-12 01:04:27",
+  "scenario": "he",
+  "seed": 42,
+  "rounds": 5,
+  "num_clients": 5,
+  "datasets": {
+    "treino": "/content/data/treino_extracted/predicting-mortality-of-icu-patients-the-physionet-computing-in-cardiology-challenge-2012-1.0.0",
+    "teste": "/content/data/teste_extracted/blood-pressure-in-salt-sensitive-dahl-rats-1.0.0",
+    "oficial": "/content/drive/MyDrive/MESTRADO UNICAMP/Projeto_Colab_Oficial/Base de Dados/Oficial/extracted"
+  },
+  "targets": {
+    "treino": "In-hospital_death",
+    "teste": "label",
+    "oficial": null
+  },
+  "feature_space_size": 168,
+  "final_test": {
+    "accuracy": 0.5,
+    "f1": 0.0,
+    "cm": [
+      [
+        15,
+        0
+      ],
+      [
+        15,
+        0
+      ]
+    ],
+    "auc": 0.5
+  },
+  "final_official": null
+}

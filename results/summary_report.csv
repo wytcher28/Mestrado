@@ -1,4 +1,0 @@
-scenario,rounds,val_accuracy_last,val_f1_last,latency_round_ms_last,latency_x_baseline,bytes_client_to_B_last,uplink_x_baseline,bytes_B_to_A_last,final_test_accuracy,final_test_f1,final_test_auc
-baseline,5,0.8612,0.0976,59.94,1.0,517160,1.0,0,0.5,0.0,0.5
-he,5,0.8612,0.0976,541.87,9.04,6685050,12.93,941349,0.5,0.0,0.5
-hybrid,5,0.8612,0.0976,498.8,8.32,6685185,12.93,941471,0.5,0.0,0.5

@@ -1,4 +1,0 @@
-run_dir,scenario,rounds,val_accuracy_last,val_f1_last,latency_round_ms_last,bytes_client_to_B_last,bytes_B_to_A_last,final_test_accuracy,final_test_f1,final_test_auc
-/content/drive/MyDrive/Mestrado/results/baseline_20260212_010425,baseline,5,0.86125,0.0975609756097561,59.938493999652565,517160,0,0.5,0.0,0.5
-/content/drive/MyDrive/Mestrado/results/he_20260212_010427,he,5,0.86125,0.0975609756097561,541.8740750028519,6685050,941349,0.5,0.0,0.5
-/content/drive/MyDrive/Mestrado/results/hybrid_20260212_010434,hybrid,5,0.86125,0.0975609756097561,498.79822300135856,6685185,941471,0.5,0.0,0.5

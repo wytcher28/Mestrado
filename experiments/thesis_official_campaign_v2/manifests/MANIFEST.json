@@ -1,0 +1,84 @@
+{
+  "campaign_id": "THESIS_OFFICIAL_CAMPAIGN_V2_20260901",
+  "protocol": "phase18_official_v1_common_local_sgd_hybrid_ts0125",
+  "created_at_utc": "2026-09-03T17:54:25.957217+00:00",
+  "phase18_approved": true,
+  "results_usable_in_thesis": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 136,
+      "sha256": "f989cc5cb5689fb7a33cb24905d55ecfce6633a98c171776b7ac612f0ab3eac6"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/README.md",
+      "bytes": 1050,
+      "sha256": "e7bbe1577253a9693eb39cd29468c292fa8c70191adc3d6411eb46714384e007"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/FASE16_Adaptador_Hibrido_CORRIGIDO.ipynb",
+      "bytes": 24498,
+      "sha256": "35571517607f26f1f405dfc19073a02f024dd217edd409ac24f506d7749d31f5"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/FASE17E0_HYBRID_ENCRYPTED_FEDAVG_GATE_V4.ipynb",
+      "bytes": 18586,
+      "sha256": "791946fec517d2e387f9d33189f25bd1acf958a1d7dc6a8a48a51475dd1e279f"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/FASE17E1_TRANSPORT_SCALING_GATE_V12_ARCHIVE_VALIDADO.ipynb",
+      "bytes": 35781,
+      "sha256": "a95205febc1107573f57ea4d22d5be755f6c63ab47438ec31da3fb06edc04d6d"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/FASE17E_HYBRID_SMOKE_TESTS_R1_C5_V7_AUTOCONTIDO.ipynb",
+      "bytes": 31690,
+      "sha256": "b90fa73f2777394261823848941b73242ac5b2bce5c2f4cd98bda758d788c8ab"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/FASE18_CAMPANHA_OFICIAL_30R_3D_3S_AUTOCONTIDA.ipynb",
+      "bytes": 40474,
+      "sha256": "b9403b5f923b6f24171c6f48f81d0119533dfc7a7d7a21876ed2047db775699b"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/Fase_17A_Congelamento_Oficial_3_Datasets.ipynb",
+      "bytes": 16143,
+      "sha256": "453c3491421a52967d3a5d2aab2d8f4be85df773490e5036ce65c5013009243f"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/Fase_17B1_Particoes_NonIID_5_Clientes.ipynb",
+      "bytes": 11934,
+      "sha256": "8fec5b6ad7f25c2551d91cb2d77ab9ad8297c21b8d5efd0d1b21c5350fae1fe2"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/Fase_17B_Congelamento_Cientifico_Splits_5_Clientes.ipynb",
+      "bytes": 18501,
+      "sha256": "8d0e5c8ee9e260a6e192b1051761c291e7b810e46ef181f471104b568283e7b4"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/Fase_17C_Smoke_Tests_Baseline_3_Datasets.ipynb",
+      "bytes": 14481,
+      "sha256": "7a9212ed0a0f9b598175208633e2365b23e1d7814a1803d748ecae9edf50e86f"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/notebooks/Fase_17D_Smoke_Tests_CKKS_3_Datasets.ipynb",
+      "bytes": 14112,
+      "sha256": "a2ff65b1c0a3a8c479f2afcfc445a0f65f26deba8ae5570617df3bb8dc0315d9"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/results/PHASE18_COMPARISON.csv",
+      "bytes": 3845,
+      "sha256": "7ab8de466ad771f690ea529e37f744dc72142f4f486276c74b569d5b5647264e"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/results/PHASE18_EVIDENCE.zip",
+      "bytes": 865651,
+      "sha256": "fe1e6e57ab0dfec781bc8c4ba097b48f93214c11819f9f4bb5c4e2f61c6204a7"
+    },
+    {
+      "path": "experiments/thesis_official_campaign_v2/results/PHASE18_MASTER_GATE.json",
+      "bytes": 45134,
+      "sha256": "d6ce94fa9c4ca5800859b233342082d84315b95419cf5507574c988fb89e73a2"
+    }
+  ]
+}

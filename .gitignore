@@ -1,18 +1,14 @@
-# Python
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+token*
+datasets/
+data/raw/
+data/private/
+checkpoints/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
 .ipynb_checkpoints/
-
-# Colab / Jupyter
-*.log
-
-# Results / artifacts
-results/
-*.png
-*.csv
-*.json
-
-# OS
-.DS_Store

@@ -1,0 +1,118 @@
+{
+  "snapshot": "Mestrado_Criptografia_multi_seed_2026-09-29",
+  "generated_at_utc": "2026-09-29T11:51:14.815523+00:00",
+  "repository": "wytcher28/Mestrado",
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "experiments": 27,
+  "federated_rounds": 810,
+  "local_trainings": 4050,
+  "training_executed_by_this_notebook": false,
+  "note": "Code/results metadata snapshot. Raw datasets, checkpoints and secrets intentionally excluded.",
+  "copied_counts": {
+    "seed42": 0,
+    "seed123": 6,
+    "seed2026": 6,
+    "multiseed": 7
+  },
+  "files": [
+    {
+      "path": "results/multiseed/PHASE23_MASTER.json",
+      "bytes": 1043,
+      "sha256": "4ae58775bf86ad1afee3343fa879eaa8577933c7c9bb53e1458ce6a1bf6d60c9"
+    },
+    {
+      "path": "results/multiseed/VALIDATION_GATES_AND_AUDITS.csv",
+      "bytes": 1137,
+      "sha256": "2d931ac75681bce042445f4e53e62f8c710c879c850cca7476cb22042a139b1a"
+    },
+    {
+      "path": "results/multiseed/MISSING_METRICS_AUDIT.csv",
+      "bytes": 7454,
+      "sha256": "ae0d79e3fa55175c2f6f2a45e6b3e9af46192b7deb4ed2d02cdda68d8f2fc655"
+    },
+    {
+      "path": "results/multiseed/ALL_27_EXPERIMENTS.csv",
+      "bytes": 10922,
+      "sha256": "48aa85930137931d3e227007c66835813f8d94a4027586f12927a35ee19198d9"
+    },
+    {
+      "path": "results/multiseed/MULTISEED_MEAN_SD.csv",
+      "bytes": 6947,
+      "sha256": "988f95331fd3da5865fddcad2053475929843b021d6462a1273fb69b4d5c9de2"
+    },
+    {
+      "path": "results/multiseed/PAIRED_DELTAS_BY_SEED.csv",
+      "bytes": 3062,
+      "sha256": "90f61e17abb4a7901a31db1447881aa9d473ea11251b9000feb7de6a47c6d527"
+    },
+    {
+      "path": "results/multiseed/PAIRED_DELTAS_MEAN_SD.csv",
+      "bytes": 3107,
+      "sha256": "367a2649d678514ab32b03749c1eb67e2c143fd010abde53d729579ffe512048"
+    },
+    {
+      "path": "results/seed123/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_CHECKS.json",
+      "bytes": 17254,
+      "sha256": "79a1898f243af8275f406a59e34a354d294472ef15d6f931f746fadfbbbc1351"
+    },
+    {
+      "path": "results/seed123/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_ROUNDS.csv",
+      "bytes": 74648,
+      "sha256": "4e86aef48d94bc138d8160902eac6c3624323446d6d6f7c8bf20a396a391d102"
+    },
+    {
+      "path": "results/seed123/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_RUNS.csv",
+      "bytes": 2968,
+      "sha256": "22021c7891deb01f4ea23004ad7a772f3d36f9f573375cba083fea23058360ab"
+    },
+    {
+      "path": "results/seed123/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_MASTER.json",
+      "bytes": 561,
+      "sha256": "91d9511ee6f577f94d137e48dd292a51086ded829986e5d8febeeaaa4287a87c"
+    },
+    {
+      "path": "results/seed123/00_CAMPAIGN_CONTROL/PHASE20_MASTER_GATE.json",
+      "bytes": 52703,
+      "sha256": "aeb23b6795b1f39be18d441e474a9c0f1585ef0c67745b58401b857cb401683f"
+    },
+    {
+      "path": "results/seed123/07_CORRECTED_OFFICIAL_CAMPAIGN/PHASE20_COMPARISON.csv",
+      "bytes": 4749,
+      "sha256": "f520ea4e3dc50e49c02261812c2e4ad8f821681527c353e4be995cb63d0f494c"
+    },
+    {
+      "path": "results/seed2026/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_CHECKS.json",
+      "bytes": 61252,
+      "sha256": "99f965867b400ddcc161f22829d67fa70e8da92eaab50f8b96de6dd544810501"
+    },
+    {
+      "path": "results/seed2026/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_ROUNDS.csv",
+      "bytes": 75188,
+      "sha256": "11a4c8cfdce129cfa8009f07a2c342b9a5e48762fc232541a1ac77063239bfeb"
+    },
+    {
+      "path": "results/seed2026/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_RUNS.csv",
+      "bytes": 2883,
+      "sha256": "fe32d19d79ca7f87917017f6d739e6088fdde90a157a3c8ac7850f4d40ee1c46"
+    },
+    {
+      "path": "results/seed2026/09_STRUCTURAL_AUDIT_V3/STRUCTURAL_AUDIT_MASTER.json",
+      "bytes": 565,
+      "sha256": "7d1b46c23a5f810353aa5cd89f277fe3ac4a864c74a755ac859d212f9da469ff"
+    },
+    {
+      "path": "results/seed2026/00_CAMPAIGN_CONTROL/PHASE20_MASTER_GATE.json",
+      "bytes": 52739,
+      "sha256": "77d4cfa1b99e93c90b961ecc033eb8e5cb2dc3be09be2c0f8266e5f6c08dfed9"
+    },
+    {
+      "path": "results/seed2026/07_CORRECTED_OFFICIAL_CAMPAIGN/PHASE20_COMPARISON.csv",
+      "bytes": 4754,
+      "sha256": "a9c66a4dbc614b6ed18316b37ddcad299a84868ac6e86cda22c00b3120af1da1"
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+[
+  {
+    "check": "campaign_root_exists",
+    "passed": true,
+    "detail": "/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926"
+  },
+  {
+    "check": "official_results_exists",
+    "passed": true,
+    "detail": "/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN"
+  },
+  {
+    "check": "PHASE20_COMPARISON_exists",
+    "passed": true,
+    "detail": "/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHASE20_COMPARISON.csv"
+  },
+  {
+    "check": "PHASE20_EVIDENCE_exists",
+    "passed": true,
+    "detail": "/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/00_CAMPAIGN_CONTROL/EXPORTS/PHASE20_EVIDENCE.zip"
+  },
+  {
+    "check": "PHASE20_MASTER_GATE_exists",
+    "passed": true,
+    "detail": "/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/00_CAMPAIGN_CONTROL/PHASE20_MASTER_GATE.json"
+  },
+  {
+    "check": "PHASE20_gate_positive",
+    "passed": true,
+    "detail": "{'resolved': True, 'candidate_values': [True, True, True, True, True, True, True, True, True, True]}"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHYSIONET_CHALLENGE_2012/BASELINE/RUN__PHYSIONET_CHALLENGE_2012__BASELINE__CORRECTED_OFFICIAL__R30__C5__S123']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHYSIONET_CHALLENGE_2012/CKKS/RUN__PHYSIONET_CHALLENGE_2012__CKKS__CORRECTED_OFFICIAL__R30__C5__S123']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHYSIONET_CHALLENGE_2012/HYBRID/RUN__PHYSIONET_CHALLENGE_2012__HYBRID__CORRECTED_OFFICIAL__R30__C5__S123__TS0125']"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/DAHL_RATS/BASELINE/RUN__DAHL_RATS__BASELINE__CORRECTED_OFFICIAL__R30__C5__S123']"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/DAHL_RATS/CKKS/RUN__DAHL_RATS__CKKS__CORRECTED_OFFICIAL__R30__C5__S123']"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/DAHL_RATS/HYBRID/RUN__DAHL_RATS__HYBRID__CORRECTED_OFFICIAL__R30__C5__S123__TS0125']"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/CHEXCHONET/BASELINE/RUN__CHEXCHONET__BASELINE__CORRECTED_OFFICIAL__R30__C5__S123']"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/CHEXCHONET/CKKS/RUN__CHEXCHONET__CKKS__CORRECTED_OFFICIAL__R30__C5__S123']"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:one_complete_run",
+    "passed": true,
+    "detail": "['/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/CHEXCHONET/HYBRID/RUN__CHEXCHONET__HYBRID__CORRECTED_OFFICIAL__R30__C5__S123__TS0125']"
+  },
+  {
+    "check": "complete_3x3_matrix",
+    "passed": true,
+    "detail": "[\"('PHYSIONET_CHALLENGE_2012', 'BASELINE')\", \"('PHYSIONET_CHALLENGE_2012', 'CKKS')\", \"('PHYSIONET_CHALLENGE_2012', 'HYBRID')\", \"('DAHL_RATS', 'BASELINE')\", \"('DAHL_RATS', 'CKKS')\", \"('DAHL_RATS', 'HYBRID')\", \"('CHEXCHONET', 'BASELINE')\", \"('CHEXCHONET', 'CKKS')\", \"('CHEXCHONET', 'HYBRID')\"]"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/CHEXCHONET/BASELINE/RUN__CHEXCHONET__BASELINE__CORRECTED_OFFICIAL__R30__C5__S123/checkpoints/state_round_030.npy', 'bytes': 4232}"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "358"
+  },
+  {
+    "check": "CHEXCHONET/BASELINE:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5358"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/CHEXCHONET/CKKS/RUN__CHEXCHONET__CKKS__CORRECTED_OFFICIAL__R30__C5__S123/checkpoints/state_round_030.npy', 'bytes': 4232}"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "350"
+  },
+  {
+    "check": "CHEXCHONET/CKKS:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5374"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/CHEXCHONET/HYBRID/RUN__CHEXCHONET__HYBRID__CORRECTED_OFFICIAL__R30__C5__S123__TS0125/checkpoints/state_round_030.npy', 'bytes': 4232}"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "362"
+  },
+  {
+    "check": "CHEXCHONET/HYBRID:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5392"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/DAHL_RATS/BASELINE/RUN__DAHL_RATS__BASELINE__CORRECTED_OFFICIAL__R30__C5__S123/checkpoints/state_round_030.npy', 'bytes': 232}"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "356"
+  },
+  {
+    "check": "DAHL_RATS/BASELINE:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5339"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/DAHL_RATS/CKKS/RUN__DAHL_RATS__CKKS__CORRECTED_OFFICIAL__R30__C5__S123/checkpoints/state_round_030.npy', 'bytes': 232}"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "348"
+  },
+  {
+    "check": "DAHL_RATS/CKKS:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5356"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/DAHL_RATS/HYBRID/RUN__DAHL_RATS__HYBRID__CORRECTED_OFFICIAL__R30__C5__S123__TS0125/checkpoints/state_round_030.npy', 'bytes': 232}"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "360"
+  },
+  {
+    "check": "DAHL_RATS/HYBRID:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5371"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHYSIONET_CHALLENGE_2012/BASELINE/RUN__PHYSIONET_CHALLENGE_2012__BASELINE__CORRECTED_OFFICIAL__R30__C5__S123/checkpoints/state_round_030.npy', 'bytes': 2256}"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "386"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/BASELINE:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5412"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHYSIONET_CHALLENGE_2012/CKKS/RUN__PHYSIONET_CHALLENGE_2012__CKKS__CORRECTED_OFFICIAL__R30__C5__S123/checkpoints/state_round_030.npy', 'bytes': 2256}"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "378"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/CKKS:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5431"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:seed_123",
+    "passed": true,
+    "detail": "[123, 123]"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:protocol",
+    "passed": true,
+    "detail": "['phase20_multiseed_r30_seed123']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:campaign_id",
+    "passed": true,
+    "detail": "['THESIS_MULTI_SEED_S123_V1_20260926']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:rounds_1_to_30",
+    "passed": true,
+    "detail": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:checkpoint_R30_nonempty",
+    "passed": true,
+    "detail": "{'path': '/content/drive/MyDrive/Mestrado_Criptografia/OFFICIAL_CAMPAIGN_V2/THESIS_MULTI_SEED_S123_V1_20260926/07_CORRECTED_OFFICIAL_CAMPAIGN/PHYSIONET_CHALLENGE_2012/HYBRID/RUN__PHYSIONET_CHALLENGE_2012__HYBRID__CORRECTED_OFFICIAL__R30__C5__S123__TS0125/checkpoints/state_round_030.npy', 'bytes': 2256}"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:RUN_STATUS_nonempty",
+    "passed": true,
+    "detail": "390"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012/HYBRID:FINAL_RESULT_nonempty",
+    "passed": true,
+    "detail": "5441"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012:three_final_checkpoints",
+    "passed": true,
+    "detail": "['601beca8b89b2fd8c6de716087bd2fe1916dc5672bf6a2c0e72a1ea1ddf20784', '7d02c309dfd1b140cd5ad2f626521d3c424a62cad5c069deae6e73a4f3cb7ddf', '3fecab12dad00daa4a07015f873fb97a68d4b6eda8de60609a818abf60b100d1']"
+  },
+  {
+    "check": "PHYSIONET_CHALLENGE_2012:distinct_final_checkpoint_hashes",
+    "passed": true,
+    "detail": "['601beca8b89b2fd8c6de716087bd2fe1916dc5672bf6a2c0e72a1ea1ddf20784', '7d02c309dfd1b140cd5ad2f626521d3c424a62cad5c069deae6e73a4f3cb7ddf', '3fecab12dad00daa4a07015f873fb97a68d4b6eda8de60609a818abf60b100d1']"
+  },
+  {
+    "check": "DAHL_RATS:three_final_checkpoints",
+    "passed": true,
+    "detail": "['ea9665d598921190ea00569ceb7f49709905ade87895a528eade57fd40614d87', 'c8ca0848df793fcd21a4a2367532646319f8bd2d18652499c23fe76e964f3235', '750cc0afd5978133d309fc7b8f84c7672f51eb4794c4b76368a2279e9b8fe3ee']"
+  },
+  {
+    "check": "DAHL_RATS:distinct_final_checkpoint_hashes",
+    "passed": true,
+    "detail": "['ea9665d598921190ea00569ceb7f49709905ade87895a528eade57fd40614d87', 'c8ca0848df793fcd21a4a2367532646319f8bd2d18652499c23fe76e964f3235', '750cc0afd5978133d309fc7b8f84c7672f51eb4794c4b76368a2279e9b8fe3ee']"
+  },
+  {
+    "check": "CHEXCHONET:three_final_checkpoints",
+    "passed": true,
+    "detail": "['2fd5e5800d3a4fa55bafd6d7f13e5ffa5336dce02370cb80d6de2fda0298e13d', 'db37e9559a38c3e6fb3b382515478cfd8cd2999bd54a957ea1d7ac3a66842e4d', 'dad096582c01d7d2c2e9855e9581fd95a904ccf6618a0fc0c49a68ef52536064']"
+  },
+  {
+    "check": "CHEXCHONET:distinct_final_checkpoint_hashes",
+    "passed": true,
+    "detail": "['2fd5e5800d3a4fa55bafd6d7f13e5ffa5336dce02370cb80d6de2fda0298e13d', 'db37e9559a38c3e6fb3b382515478cfd8cd2999bd54a957ea1d7ac3a66842e4d', 'dad096582c01d7d2c2e9855e9581fd95a904ccf6618a0fc0c49a68ef52536064']"
+  },
+  {
+    "check": "nine_experiments_audited",
+    "passed": true,
+    "detail": "9"
+  },
+  {
+    "check": "270_unique_rounds_detected",
+    "passed": true,
+    "detail": "270"
+  }
+]

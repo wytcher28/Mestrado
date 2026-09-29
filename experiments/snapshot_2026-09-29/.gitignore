@@ -1,0 +1,15 @@
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+credentials*
+token*
+**/checkpoints/
+**/datasets/
+**/.ipynb_checkpoints/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt

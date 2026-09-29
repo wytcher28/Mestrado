@@ -1,0 +1,38 @@
+{
+  "phase": "PHASE23_MULTI_SEED_CONSOLIDATION_42_123_2026_V2",
+  "generated_at_utc": "2026-09-29T11:20:39.479116+00:00",
+  "training_executed": false,
+  "seeds": [
+    42,
+    123,
+    2026
+  ],
+  "datasets": [
+    "PHYSIONET_CHALLENGE_2012",
+    "DAHL_RATS",
+    "CHEXCHONET"
+  ],
+  "scenarios": [
+    "BASELINE",
+    "CKKS",
+    "HYBRID"
+  ],
+  "experiments_consolidated": 27,
+  "expected_experiments": 27,
+  "federated_rounds_expected": 810,
+  "local_trainings_expected": 4050,
+  "all_phase20_gates_approved": true,
+  "seed123_structural_audit_approved": true,
+  "seed2026_structural_audit_approved": true,
+  "statistics": "Descriptive mean and sample SD across n=3 matched ML seeds; paired protected-minus-baseline deltas computed within seed.",
+  "inferential_significance_claimed": false,
+  "missing_metric_cells": 162,
+  "outputs": [
+    "VALIDATION_GATES_AND_AUDITS.csv",
+    "ALL_27_EXPERIMENTS.csv",
+    "MULTISEED_MEAN_SD.csv",
+    "PAIRED_DELTAS_BY_SEED.csv",
+    "PAIRED_DELTAS_MEAN_SD.csv",
+    "MISSING_METRICS_AUDIT.csv"
+  ]
+}

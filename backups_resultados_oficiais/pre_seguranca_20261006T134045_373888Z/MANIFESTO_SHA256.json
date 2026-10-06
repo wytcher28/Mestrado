@@ -1,0 +1,720 @@
+{
+  "scope": "Resultados oficiais e scripts disponíveis nesta sessão. Backup integral de dados, checkpoints e ambiente permanece no Drive. Não comprova restauração integral da campanha.",
+  "files": [
+    {
+      "path": "apresentacao_orientadora/entrega/Apresentacao_Resultados_Mestrado.pdf",
+      "bytes": 577287,
+      "sha256": "d9a282c25725d10520f0bf3cc3bf5a01ee5a4039f8be3b10841797a4848209d8"
+    },
+    {
+      "path": "apresentacao_orientadora/entrega/Apresentacao_Resultados_Mestrado.pptx",
+      "bytes": 38658,
+      "sha256": "d8369d0e4c9c1ee535177d1dcfe37cdcb83a33e0c37789df9f1ae2d4c625faaf"
+    },
+    {
+      "path": "caderno_oficial_v7/Anexo_810_Rodadas_Oficiais.pdf",
+      "bytes": 165854,
+      "sha256": "33422f2846817cecd897000c729dfe9855ff78486e8c6699e7702166ea255184"
+    },
+    {
+      "path": "caderno_oficial_v7/Gerador_Consolidacao_Oficial.py",
+      "bytes": 22887,
+      "sha256": "1f624d4fb91717c96b18602bab70a4abc7950c48eb772fa4d01c66e35b4ce677"
+    },
+    {
+      "path": "caderno_oficial_v7/Registro_Tratamentos_V7.json",
+      "bytes": 570,
+      "sha256": "0d0ebb2e1c55c4b06642fb7a554c5cef149aa7220e290cbaa7fac7808042c02b"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/01_runs_oficiais_todos_campos.csv",
+      "bytes": 41765,
+      "sha256": "c7d5bb26c360d0a0ba5ae6c9a6853fdefc38d97cffcb9e14c5bb38842f058aa9"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/03_configuracoes_todos_campos.csv",
+      "bytes": 24001,
+      "sha256": "aee7ba30ba10d00e49186430637582b13546cb631d1890d9c1a6b0a0230d9329"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/04_gates_estruturais_todos_campos.csv",
+      "bytes": 1695,
+      "sha256": "eeb875eb500d242836f82a2e5721a145218b65ddd5ccc730e026c323b3a0f462"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/05_810_rodadas_tempo_e_comunicacao.csv",
+      "bytes": 278853,
+      "sha256": "be24db40fddfd5062bf25ff54c6cd6242aab100190c519493b1b62aa196e3813"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/06_estatisticas_entre_seeds.csv",
+      "bytes": 14313,
+      "sha256": "6b106f8621dcfe56c80c3c1a37fddeb039e13cb408e32f4ce4deb5450a9ce3df"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/07_estatisticas_rodadas_descritivas.csv",
+      "bytes": 5796,
+      "sha256": "e6af985ca23047c7b367eadbd2a7c14fa1fd37150bc599701a6635ef9ff4b6f5"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/FONTES_SHA256.json",
+      "bytes": 213,
+      "sha256": "f31fc922fa0ec63ef1173226eaa27960fefe0626d22a894af35291c2033b01c0"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/INDICE_FIGURAS.json",
+      "bytes": 4855,
+      "sha256": "72f088b02608e14a74eb219f5d9adc58061c3dddbc20fc49ce95d160b1771152"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/INDICE_TABELAS.json",
+      "bytes": 3179,
+      "sha256": "1100ba3c1386bb817d2b530575f8cdcdc0d54f138f4c83d03bd1c74458fa2c2d"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/S02_CEF_BY_RUN.csv",
+      "bytes": 5411,
+      "sha256": "7d7ed7af847353e694fc5d92b6ea7137823afb3ffb8b710fbc71d14845444034"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/S02_COMMUNICATION_BY_ROUND.csv",
+      "bytes": 107879,
+      "sha256": "d3b516d03334b892cd13a9a72187dcab7505394a2cc3f9be0b45f2e5e181a415"
+    },
+    {
+      "path": "caderno_oficial_v7/dados/S02_OVERHEAD_BY_ROUND.csv",
+      "bytes": 200362,
+      "sha256": "41e3ce5e02c1f2a59133f68d1f672fcdce1dd0fec9ef7b72f1c06f5a6211890f"
+    },
+    {
+      "path": "caderno_oficial_v7/fontes/campanha_evidencias.json",
+      "bytes": 148155,
+      "sha256": "0b3e70158b4010740771212814743128443e41a1dc0c16072874df4937c75a42"
+    },
+    {
+      "path": "caderno_oficial_v7/fontes/extracao_oficial/S02_CEF_BY_RUN.csv",
+      "bytes": 5411,
+      "sha256": "7d7ed7af847353e694fc5d92b6ea7137823afb3ffb8b710fbc71d14845444034"
+    },
+    {
+      "path": "caderno_oficial_v7/fontes/extracao_oficial/S02_COMMUNICATION_BY_ROUND.csv",
+      "bytes": 107879,
+      "sha256": "d3b516d03334b892cd13a9a72187dcab7505394a2cc3f9be0b45f2e5e181a415"
+    },
+    {
+      "path": "caderno_oficial_v7/fontes/extracao_oficial/S02_LIMITATIONS.json",
+      "bytes": 365,
+      "sha256": "1970f3defca65d3d7d7f7ce3b8aa11243b2c5c901d1d2a10bb48b34e64c4c395"
+    },
+    {
+      "path": "caderno_oficial_v7/fontes/extracao_oficial/S02_OVERHEAD_BY_ROUND.csv",
+      "bytes": 200362,
+      "sha256": "41e3ce5e02c1f2a59133f68d1f672fcdce1dd0fec9ef7b72f1c06f5a6211890f"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/cef_historico.png",
+      "bytes": 31995,
+      "sha256": "ba7b174828551c91c068ae9c2d7f8d5c92e0f36d323926606b4fb9edfa407bc0"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/cef_historico.svg",
+      "bytes": 31361,
+      "sha256": "91b7ec17cc6b3f989730d4a2fa1ba3340c48f10c81c170de4a53a4af76187b04"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/comunicacao_rodadas.png",
+      "bytes": 282812,
+      "sha256": "89f799bc5230bca271bf6b40bde22f8b030936bf721c6cdbd8743705bde1dca3"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/comunicacao_rodadas.svg",
+      "bytes": 197127,
+      "sha256": "9435dd47884d1f7a0ab12825c19cab998b7a6242ff4be1451e5919c7c83ecbb2"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_CHEXCHONET_test.png",
+      "bytes": 65995,
+      "sha256": "9101caec6b8fddad793bf82e98485f99b817ad0eddfff633e8ce7d9d1171b7ba"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_CHEXCHONET_test.svg",
+      "bytes": 86836,
+      "sha256": "381e0564416292763f25c396af555c2bb90c68875f42517a36615dc4934e8fe4"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_CHEXCHONET_validation.png",
+      "bytes": 65183,
+      "sha256": "99e54b0d28988f2b10f8c2a5bb19ee7ec40fcc27e31f4aacfc8b1dedf52dd56d"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_CHEXCHONET_validation.svg",
+      "bytes": 86022,
+      "sha256": "f03a4ab1b44da43c6b3b09ad624d90d489a61baf343e9c5564ef0a8c20ed7dd0"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_DAHL_RATS_test.png",
+      "bytes": 60043,
+      "sha256": "5f6ce08c61a16c37103e9c31b18c967dab1bf64fca9d256e6dcddeccc5a37fea"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_DAHL_RATS_test.svg",
+      "bytes": 83345,
+      "sha256": "a13c564428a8598774da46c6499afdb5bc9714377436ad4b5230ea8044bf0124"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_DAHL_RATS_validation.png",
+      "bytes": 60911,
+      "sha256": "3761f082248ffbdd7c32f19a574d69d10b82a0e72a90b509cf30bb15727f6add"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_DAHL_RATS_validation.svg",
+      "bytes": 82374,
+      "sha256": "b9fe66a98a18689d448aeaf933765bc9b849221196a916bdef55c780a0ce8a78"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_PHYSIONET_CHALLENGE_2012_test.png",
+      "bytes": 64961,
+      "sha256": "321d41f4f74e1bd4170e8db8bd3e05dad371165ebe4e675b73713d29d5ac237e"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_PHYSIONET_CHALLENGE_2012_test.svg",
+      "bytes": 87884,
+      "sha256": "ef362751fc175d23d2e12b149736df08ba8d78a0202ffcd4ed41f7ac2bbbcf56"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_PHYSIONET_CHALLENGE_2012_validation.png",
+      "bytes": 64759,
+      "sha256": "cc715228ed440e3dd78e6839bfe94cd10b117779a4784cd9257149a474c1fd74"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/confusao_PHYSIONET_CHALLENGE_2012_validation.svg",
+      "bytes": 87209,
+      "sha256": "44c32ed3014ef5431a6690c7a7ba4a76f9cdf2b192db1ab9dd9c509c67f3f8b9"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/custos_CHEXCHONET.png",
+      "bytes": 73581,
+      "sha256": "93020f73d32dfac8e040ba47c33d0782c984cf6f98962f8c15c24bd8f173ef5d"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/custos_CHEXCHONET.svg",
+      "bytes": 92031,
+      "sha256": "62515187be9e64c4fa573decf0b19c73edd389a45cf885b4477cbbbb21948680"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/custos_DAHL_RATS.png",
+      "bytes": 74016,
+      "sha256": "304559e5f1bb88bfee4504a25ce932b5054f34642d123ac5f11a1a98626d7d23"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/custos_DAHL_RATS.svg",
+      "bytes": 8193,
+      "sha256": "907162343bec7d34a1a7a7e975e3f4588d346d3d34c42f3af65e700d1704aaae"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/custos_PHYSIONET_CHALLENGE_2012.png",
+      "bytes": 73827,
+      "sha256": "d77a7eedfd6e007f9c32afed871c26ca470c147a6bb48dc8856260790c63bb33"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/custos_PHYSIONET_CHALLENGE_2012.svg",
+      "bytes": 92037,
+      "sha256": "90e0fff3973315e6d69f70e309c676051f21aca0a556900f80f6a8b3b7646a44"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_CHEXCHONET_test.png",
+      "bytes": 70841,
+      "sha256": "dcf0df9fea0af30fa5d1d3f585cafe74d01713920f841d7ba181143a5cb94b6f"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_CHEXCHONET_test.svg",
+      "bytes": 85737,
+      "sha256": "6bb867dfe03f3c8c68fde8d3d9d80630e9c34dfae565cad7bd11e8b95a068119"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_CHEXCHONET_validation.png",
+      "bytes": 71334,
+      "sha256": "3deffdc5f3a300c5677a9b434658a4ce6157f497cfd1988efb70d442e041f5ec"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_CHEXCHONET_validation.svg",
+      "bytes": 85755,
+      "sha256": "11873d53ae42c25b24f71c9e6eae2d15e3b3e1ccdb188a950b3ec115d24fea06"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_DAHL_RATS_test.png",
+      "bytes": 70227,
+      "sha256": "1c8628243343f22e4f14f79e8b5e78c5976e7465fbe59ab5873c5ee1ca00c171"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_DAHL_RATS_test.svg",
+      "bytes": 85710,
+      "sha256": "b97b7760521cacd6a4cea9504a69f2d8cb50fcaf896995ffec266a81b25aca5e"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_DAHL_RATS_validation.png",
+      "bytes": 69624,
+      "sha256": "257f2a1aba7224ad701a7c1ae323aacd545b217579c307d0ba0a747ccb7f86f7"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_DAHL_RATS_validation.svg",
+      "bytes": 85710,
+      "sha256": "0f36dda83b7bcca19c69b0049ea50fbe3a59838c76ae6dbbd18a065b7085e1ea"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_PHYSIONET_CHALLENGE_2012_test.png",
+      "bytes": 73594,
+      "sha256": "128a9117fe9bb219d973edf391504debb486990ba21f3debffb4fdf90ae44bb2"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_PHYSIONET_CHALLENGE_2012_test.svg",
+      "bytes": 32947,
+      "sha256": "457408b0e0ec95b9543619062471dd13e70a5fcf4feaf3ec847a9bcbcbcdf882"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_PHYSIONET_CHALLENGE_2012_validation.png",
+      "bytes": 72963,
+      "sha256": "49034f6429776e22598bdbaa83deef3f29ace3ba68c9798088151e14093f3677"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/qualidade_PHYSIONET_CHALLENGE_2012_validation.svg",
+      "bytes": 85731,
+      "sha256": "817f18be0fd5e08b93f024179f4828b7655e8bad670f23a16b25c2f2ea5ad7a1"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_aggregation_seconds.png",
+      "bytes": 251767,
+      "sha256": "6cccca64fb229bdf9050e1a871ce33161f96ad3126e780fe0393e0895be737be"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_aggregation_seconds.svg",
+      "bytes": 157064,
+      "sha256": "db0472925fa2e972a6f88fe3dc1a3bbabd39c05d0ee084447d17240d6827772a"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_decryption_with_deserialization_seconds.png",
+      "bytes": 208786,
+      "sha256": "142591f3ec0741851e5b35dc2c52f504ae0ee6a07a9152e2c9030020c237c3ea"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_decryption_with_deserialization_seconds.svg",
+      "bytes": 156715,
+      "sha256": "250e3b0d64b3bebc900e2dc6d2c7c147d7b512fd1d8d4691674a98729b356d68"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_encryption_with_serialization_seconds.png",
+      "bytes": 270391,
+      "sha256": "36debedf42c1e0fa86623d58c9c1b84b3d68705c3d62b94986c5fc531a0a8855"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_encryption_with_serialization_seconds.svg",
+      "bytes": 152151,
+      "sha256": "57a307a5e40f53f2cac19d479803f3b0bd985700f99733fbafe3e7e92d68f244"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_end_to_end_seconds.png",
+      "bytes": 370643,
+      "sha256": "08931075d882e75acf3fa323ae4abd948e68133c263df2938ca1ce0244598fc3"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_end_to_end_seconds.svg",
+      "bytes": 180067,
+      "sha256": "dd3f75a4be9a1de45d2bd8d8852a987888de0cdeb802d1be15820fa8955c45da"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_hybrid_bridge_composite_seconds.png",
+      "bytes": 230786,
+      "sha256": "8371903f7561f374b5dc34678bed3e9d0e03cad0d526de5c7c9714eaea3173d5"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_hybrid_bridge_composite_seconds.svg",
+      "bytes": 147370,
+      "sha256": "c93d9298c1a00544dcde0e5571759a8912c2d96416bc9e45acb48976036c87af"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_other_seconds_arithmetic_residual.png",
+      "bytes": 456175,
+      "sha256": "2e10b3ee0b95de4e751145a03fdcfbdc7625ad9f1bc75e3a002c62c9340e9f0b"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_other_seconds_arithmetic_residual.svg",
+      "bytes": 176256,
+      "sha256": "2d43b270fa3c5f0b52d9dda41e975618b2f678017e51e7a6b7a9548ed7933adb"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_reported_setup_or_outer_residual_seconds.png",
+      "bytes": 246225,
+      "sha256": "8c94b0d400aa20b53b3849870484ba4a1b52fc20856b8b491f216d4b66684acb"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_reported_setup_or_outer_residual_seconds.svg",
+      "bytes": 173792,
+      "sha256": "8e61ccf40222721ca9bb28c662d74fe2c136262298ca71edaab48edc8d1d2e69"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_training_seconds_sum_sequential_clients.png",
+      "bytes": 504801,
+      "sha256": "1b7772fca756fdc256213b420a33f91d34ef3aab2d363fe3482b83eb44c587b2"
+    },
+    {
+      "path": "caderno_oficial_v7/graficos/rodadas_training_seconds_sum_sequential_clients.svg",
+      "bytes": 177144,
+      "sha256": "f8d9c5e0d6a078e26bd591adb18df88b21ce441b3ab460f9855fc0ca04bfb04d"
+    },
+    {
+      "path": "caderno_oficial_v8/Caderno_Oficial_Resultados_V8_Tres_Seeds.pdf",
+      "bytes": 11097681,
+      "sha256": "c6394b501aa3e17cd714aecc4724ebbdb159bc4f18028f0b1d892e09f4c0f251"
+    },
+    {
+      "path": "caderno_oficial_v8/Complemento_Oficial_S08_Tres_Seeds.pdf",
+      "bytes": 5746196,
+      "sha256": "eb41aba1ee371d77fd3d86232444f8c3e997ac087afb0416d57d069804183741"
+    },
+    {
+      "path": "caderno_oficial_v8/LEIA_PRIMEIRO.md",
+      "bytes": 420,
+      "sha256": "cefcbe94f965712ddf02f2315e58c22a7c7d78ce2a65e71ff416ba34f847c4ce"
+    },
+    {
+      "path": "caderno_oficial_v8/Registro_Atualizacao_V8.json",
+      "bytes": 523,
+      "sha256": "781b8990551147c04bfd4cddc2ced10afba80bbcf302d9c28affc584631720e7"
+    },
+    {
+      "path": "caderno_oficial_v8/build.py",
+      "bytes": 17150,
+      "sha256": "9ce069841514b2fefcf4059ef1455deddfd633fb99feffa7649293c497ffbc2e"
+    },
+    {
+      "path": "caderno_oficial_v8/dados_S08/Estatisticas_Finais_Tres_Seeds.csv",
+      "bytes": 12029,
+      "sha256": "9932bf8f00ef098f938666beb92dfaa46fb96b5c1c9aa3ece4c97f8978c86b41"
+    },
+    {
+      "path": "caderno_oficial_v8/dados_S08/INDICE_FIGURAS_S08.json",
+      "bytes": 4671,
+      "sha256": "1d8b832eb6a4e50f3a742601f822c4593f6701c06b9cddeb0a1e450f6dcd9d98"
+    },
+    {
+      "path": "caderno_oficial_v8/dados_S08/Matriz_Cobertura_Seeds.csv",
+      "bytes": 1132,
+      "sha256": "ae0a416bb99a027a18c288f0dde67970a810cbfd945ae96640480b1854f2ddc8"
+    },
+    {
+      "path": "caderno_oficial_v8/finalize.py",
+      "bytes": 4945,
+      "sha256": "335c675bb13df15c7a0a06fb83206eb708b9f97db993f140b5bd7b4ed65a4721"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_ALL_ROUND_FIELDS_810.csv",
+      "bytes": 765403,
+      "sha256": "3006f77ab9f26f3caee4be3a766d02999a6645d5f52a0780f0cdd3fe3576b8ea"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_CHECKPOINT_DELTAS_837.csv",
+      "bytes": 51000,
+      "sha256": "6880dcb6c04e32db4bed2c9a04594d82d0f5abb245bb6e47c6164c500786d8ea"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_CHECKS_PROGRESS.json",
+      "bytes": 654945,
+      "sha256": "577556e9f41e4eb655fa2142907238e4bcf5559f5c3eb21c2b021df058d11d79"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_CLIENT_INSTRUMENTATION_4050.csv",
+      "bytes": 405343,
+      "sha256": "9899e579ee36f635b02804300f469eb87745dcd20c295b6cf65c291f070dbb18"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_CONTINUOUS_DELTAS_27.csv",
+      "bytes": 5912,
+      "sha256": "cdbaf7cad0ffccdb0276891a87b214f7530a83fba52dd70f4de6833fcb4d1d87"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_FIELD_COVERAGE.csv",
+      "bytes": 476599,
+      "sha256": "4eaaac5246d7acfa3530c0d846043ebcbc3abf97e2855ec5830d69e3a19d725d"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_FINAL_GATE.json",
+      "bytes": 468801,
+      "sha256": "f5fe93bc3306309e22b8d745e3619da955eda12d19b3e69b922682c3bf6b7c3f"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_RECALCULATED_FINAL_METRICS_54.csv",
+      "bytes": 10980,
+      "sha256": "656dc499816abd103d4fb34b792672629bd2ed1e9a901e0d1e5e02b88a5ff85d"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_RUN_CPU_COSTS_27.csv",
+      "bytes": 4017,
+      "sha256": "e9e8767d3a2fdd06a66e73ecc914123c8eced48bf89972fe40055a9b708c9d6b"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_TEMPORAL_GAINS_AND_DELTAS_810.csv",
+      "bytes": 118165,
+      "sha256": "0ed5c708c7a3566c9d9b74e3e4a0827832c7e570df91d8c3ddc207c74bb605fd"
+    },
+    {
+      "path": "caderno_oficial_v8/fontes_S08/S08_VARIATION_COUNTS_27.csv",
+      "bytes": 1709,
+      "sha256": "7ca9ab478527e782b6b0bca400a057ed682ab5672b396532c290edb496579af9"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/checkpoint_state_l2_difference.png",
+      "bytes": 136378,
+      "sha256": "77aaa708b28ff60e7ba1d40d30c8d50b5a200bae8957d7476863da344de88da9"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/checkpoint_state_l2_difference.svg",
+      "bytes": 189421,
+      "sha256": "fc92f308deccbe6966c21060fe0235bbd0ef23fb261c7251edf972a4e8c13a0b"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/checkpoint_state_max_abs_difference.png",
+      "bytes": 158721,
+      "sha256": "e3da37962d49097b77237d46dd3dcec36026f53452feee7ab1d48d2faf57fe3a"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/checkpoint_state_max_abs_difference.svg",
+      "bytes": 8292,
+      "sha256": "39cccaeb7c8367ba46ee275263dc931cbff43140da3852b82ca444755c6e2243"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/clientes_delta_l2_norm.png",
+      "bytes": 143842,
+      "sha256": "1aa52cec5a23e4d70787b161ff94e2ffb32b007f029bdc5ca489e0004bc3e14d"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/clientes_delta_l2_norm.svg",
+      "bytes": 154162,
+      "sha256": "739d772db102e1371e16d6133a01c17d91e258582242745d14e4cf8cb31ec110"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/clientes_train_cpu_seconds.png",
+      "bytes": 446334,
+      "sha256": "34b396355765fcaa42ec6aa89340bccdc0fb65362e72cd5279ad61f2f18e79fe"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/clientes_train_cpu_seconds.svg",
+      "bytes": 108092,
+      "sha256": "4776455109626074527f4318eec2bcd857036f01385066f0979b81ff7394c771"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/clientes_train_wall_seconds.png",
+      "bytes": 517042,
+      "sha256": "1854e22569334b43f26d0256dd3081f13115774238e650b5978ae430d3692e1e"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/clientes_train_wall_seconds.svg",
+      "bytes": 172553,
+      "sha256": "a0ac10d4d59d05c38ceb37890df57f1678c4690f501d94fff548f8da58df595a"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/cpu_CHEXCHONET.png",
+      "bytes": 33969,
+      "sha256": "e8a8ec7f3fcd6f228a195c22ee61af4f8092301a0735e134131184e591801984"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/cpu_CHEXCHONET.svg",
+      "bytes": 45483,
+      "sha256": "796378eb4c8ce91d9de6a7c3485205b05b22ae59f31cf02591d4a803bdb6e6d9"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/cpu_DAHL_RATS.png",
+      "bytes": 39758,
+      "sha256": "de7857d9707e042a7b15720fc007401cd234073829a32570536372efedbf5ffa"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/cpu_DAHL_RATS.svg",
+      "bytes": 57276,
+      "sha256": "bfa77dd07556fbef91420fe8f82eb3869cdebf660429d9d8400f3436e34375c4"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/cpu_PHYSIONET_CHALLENGE_2012.png",
+      "bytes": 38613,
+      "sha256": "e075f24fc11b2ccbd7fa64a66a4ba489d63600d58b83596cff3978a4f4ffca7e"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/cpu_PHYSIONET_CHALLENGE_2012.svg",
+      "bytes": 53856,
+      "sha256": "02e46e7337424ab30321e8e7a98af78790757f99d0263f9a3a127b86383615d8"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/deltas_continuos_finais.png",
+      "bytes": 265536,
+      "sha256": "d3810de1c0b51bac22576cd3833208e33fc26ca760160c585471dc58779f6644"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/deltas_continuos_finais.svg",
+      "bytes": 241439,
+      "sha256": "97ef0166fb39d5b3d53372e8d18aef581695a2e84da485420f74f83a812765ad"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_accuracy.png",
+      "bytes": 280558,
+      "sha256": "d48c281a12e7fc1bd99cf162487cd8f8039b04fcfdd9d8d3f00434caf0f65138"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_accuracy.svg",
+      "bytes": 178865,
+      "sha256": "2c18c98921d825cf544abbb3532b1f1ecbf128159ba24e375d603e130ec7b683"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_auroc.png",
+      "bytes": 273067,
+      "sha256": "a9fbf60539f0079b730772d4eae6891f290c3c2051fa20ba145572ab1f335fe5"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_auroc.svg",
+      "bytes": 176778,
+      "sha256": "fc24733a579acbf14a03a022bf3ec88e6fa0f97b135fcbdc640f0ef5e600fab9"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_f1.png",
+      "bytes": 260287,
+      "sha256": "364202f8606e4ae7ceb9fa49434a6ee4a5c499c802f87d587a38d6cf6a7e61cc"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_f1.svg",
+      "bytes": 166006,
+      "sha256": "9687c563cbb95019e9adb6cf8e67b7d7719eaf2906c7d6b633616e6c6580bdb1"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_precision.png",
+      "bytes": 243309,
+      "sha256": "da985b1bdd6d1d73ef6be7354cbd007c3d9c93a98848f2ad8400ee356f50f4fc"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_precision.svg",
+      "bytes": 169549,
+      "sha256": "0abc7070cc9ff5448f284843c6d25c47a13897fcaab9675d40ed778f9cdbbeff"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_recall.png",
+      "bytes": 234829,
+      "sha256": "782cce688c7a679781a99b297fb1bb88e128a5bbd2044278e543946b94fa8a3a"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/ganho_recall.svg",
+      "bytes": 165143,
+      "sha256": "9aeb22c19eba203d7d454f02717aead04f268b6009a30cbd0f0be9ca8c0574a0"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/numeric_error_max_abs_error.png",
+      "bytes": 185446,
+      "sha256": "770f7e4529c3609ae6ca2ef6eed9ce360943700cb9fadc87c9ba5abb86b725cc"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/numeric_error_max_abs_error.svg",
+      "bytes": 137987,
+      "sha256": "f9ce15eb0d29405117181bd0266537f31c949975f278c9ee281b491c5784376f"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/numeric_error_mean_abs_error.png",
+      "bytes": 137879,
+      "sha256": "afdce1670980422584e408a93378072c4d16670a7906091a4c6e8396a6702398"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/numeric_error_mean_abs_error.svg",
+      "bytes": 131206,
+      "sha256": "5a5e964110db7a25d02469cdedf0bb86d51d7d9f24ee025994fee587ff943dd7"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/numeric_error_rmse.png",
+      "bytes": 141264,
+      "sha256": "3e6acc8e4bad351650fb547c178675f56aa7255c161597d08f062e81912bf29c"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/numeric_error_rmse.svg",
+      "bytes": 129620,
+      "sha256": "1f023d2544b88f498563f9041a22ff5567421d156d7c02f7da72fe22d4d99fcf"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_accuracy.png",
+      "bytes": 287636,
+      "sha256": "1047cc8f8e461874d4505aea5c129cebcdeafe21fa36bcc5c8ba227bf2b61462"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_accuracy.svg",
+      "bytes": 156262,
+      "sha256": "fc2cb14cf3348abd9665c9987d89509e02f9f7f135f3b15fca494c71f60ac910"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_auroc.png",
+      "bytes": 279468,
+      "sha256": "794b643a4843c9bba9da80adf3c5ff69cf55c2dcafdf6a1fc2d630487da9a762"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_auroc.svg",
+      "bytes": 100356,
+      "sha256": "c5686da5026dc4eeff27cd19cbf041a7793a269df44ca602573c98583dfa0703"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_f1.png",
+      "bytes": 255141,
+      "sha256": "6b74e2ec3399b8ace2e4517ef313b4626f58d5434411182b49e8ebbc12336ae1"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_f1.svg",
+      "bytes": 164190,
+      "sha256": "818cc9afd711023cc0fbd6e3604c224d880a996275decd0eb5b066e437c2d3d3"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_precision.png",
+      "bytes": 238464,
+      "sha256": "f7b5efc1201d24354dda1ca8c099c0f9aa8c9c694891cbde69da019ed056cb1f"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_precision.svg",
+      "bytes": 166054,
+      "sha256": "301be786135b7121039d416f54f5948180e5d939d75cd6a0b48aceb883ef69d7"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_recall.png",
+      "bytes": 230249,
+      "sha256": "dafa9d7557b2d0ec16e5d82c26dab4d1cf9e54ca3a579022d3ecdd16be990f92"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validacao_recall.svg",
+      "bytes": 161743,
+      "sha256": "036208f64771a5d9802166c28c658f19a9020bebfad0ae679c95c7820d840f10"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validation_prediction_disagreement_from_clear_round.png",
+      "bytes": 69885,
+      "sha256": "14e59332743ec54da441cdadd7376be1d2c9eb50b606d457660d497a6c715032"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validation_prediction_disagreement_from_clear_round.svg",
+      "bytes": 143083,
+      "sha256": "14867a04f0bec75d4c4b8aed9ca03f9560f7e1fc3814f4b79eec19992d18f04b"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validation_probability_max_abs_difference_from_clear_round.png",
+      "bytes": 232030,
+      "sha256": "884eb0a092c45b4c3c274b5dd2997af7133ec726143fffab5b7eae56f176f778"
+    },
+    {
+      "path": "caderno_oficial_v8/graficos_S08/validation_probability_max_abs_difference_from_clear_round.svg",
+      "bytes": 138677,
+      "sha256": "2b8754e399604655a84cebd7714b80f8e1044749524a950655eba5e29fa40966"
+    },
+    {
+      "path": "simetria_seeds/S08_Cobertura_Oficial_Tres_Seeds.ipynb",
+      "bytes": 25759,
+      "sha256": "d7179896884b0a63d70f58f0d49c94d71587fc26e028f03cef681b4d9caedd31"
+    },
+    {
+      "path": "simetria_seeds/build.py",
+      "bytes": 14758,
+      "sha256": "4db6391f5a21f4100428a30c0576a8b01a09e15a1255a43d540be0b40f9e6100"
+    },
+    {
+      "path": "simetria_seeds/helpers.py",
+      "bytes": 6584,
+      "sha256": "cb1d3f714e9a4248ef44833325d18ff19cffd70721db4b16b0c20c4091c69540"
+    }
+  ]
+}
